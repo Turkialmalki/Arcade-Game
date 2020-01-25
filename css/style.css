@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+}
+
+/* Score and Live header*/
+
+.Gamestatus {
+	margin: 25px auto 0 auto;
+	width: 350px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
